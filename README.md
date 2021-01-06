@@ -4,6 +4,7 @@ training. Our experiments on MNIST, CIFAR-10, and CIFAR-100 show that LayerOut g
 
 
 
+
 ## Cite
 
     @article{goutam2020layerout,
